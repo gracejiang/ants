@@ -1,8 +1,8 @@
-# ants vs bees
+# Ants
 
-an interactive ants vs bees game based off plants vs zombies.
+An interactive Ants vs. Bees game based off the famous Plants vs. Zombies.
 
-use
+Use:
 ```bash
 python3 ants_gui.py
 ```
